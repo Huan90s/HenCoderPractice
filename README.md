@@ -1,2 +1,2 @@
 # HenCoderPractice
-practice the sample of Hencoder
+practice the sample of Hencoder in kotlin
